@@ -1,0 +1,87 @@
+Epoch 1, Iteration 2:
+Weights: [-1. -2. -1.]
+---
+Epoch 1, Iteration 3:
+Weights: [0. 0. 2.]
+---
+Epoch 2, Iteration 2:
+Weights: [-1. -2.  1.]
+---
+Epoch 2, Iteration 3:
+Weights: [0. 0. 4.]
+---
+Epoch 1, Iteration 2:
+Weights: [-1. -2. -1.]
+---
+Epoch 1, Iteration 3:
+Weights: [0. 0. 2.]
+---
+Epoch 2, Iteration 2:
+Weights: [-1. -2.  1.]
+---
+Epoch 2, Iteration 3:
+Weights: [0. 0. 4.]
+---
+Epoch 3, Iteration 2:
+Weights: [-1. -2.  3.]
+---
+Epoch 1, Iteration 2:
+Weights: [-1. -2. -1.]
+---
+Epoch 1, Iteration 3:
+Weights: [0. 0. 2.]
+---
+Epoch 2, Iteration 2:
+Weights: [-1. -2.  1.]
+---
+Epoch 2, Iteration 3:
+Weights: [0. 0. 4.]
+---
+Epoch 3, Iteration 2:
+Weights: [-1. -2.  3.]
+---
+Epoch 1, Iteration 2:
+Weights: [-1. -2. -1.]
+---
+Epoch 1, Iteration 3:
+Weights: [0. 0. 2.]
+---
+Epoch 2, Iteration 2:
+Weights: [-1. -2.  1.]
+---
+Epoch 2, Iteration 3:
+Weights: [0. 0. 4.]
+---
+Epoch 3, Iteration 2:
+Weights: [-1. -2.  3.]
+---
+Epoch 1, Iteration 2:
+Weights: [-1. -2. -1.]
+---
+Epoch 1, Iteration 3:
+Weights: [0. 0. 2.]
+---
+Epoch 2, Iteration 2:
+Weights: [-1. -2.  1.]
+---
+Epoch 2, Iteration 3:
+Weights: [0. 0. 4.]
+---
+Epoch 3, Iteration 2:
+Weights: [-1. -2.  3.]
+---
+Epoch 1, Iteration 2:
+Weights: [-1. -2. -1.]
+---
+Epoch 1, Iteration 3:
+Weights: [0. 0. 2.]
+---
+Epoch 2, Iteration 2:
+Weights: [-1. -2.  1.]
+---
+Epoch 2, Iteration 3:
+Weights: [0. 0. 4.]
+---
+Epoch 3, Iteration 2:
+Weights: [-1. -2.  3.]
+---
